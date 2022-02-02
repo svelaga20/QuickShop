@@ -8,3 +8,5 @@ AUTHOR : SUNITHA
 3) CHECKOUT PAGE
 
 4) LOGOUT PAGE
+
+5) Display message " thank you for shopping"
